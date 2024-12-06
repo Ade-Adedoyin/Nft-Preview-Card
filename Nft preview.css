@@ -1,0 +1,94 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: hsl(217, 54%, 11%);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 70px;
+}
+.first{
+    height: 100vh;
+    width: 28vw;
+    background-color:  hsla(216, 64%, 10%, 0.37);
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    padding: 20PX;
+    margin: 20px;
+}
+.second{
+    height: 88vh;
+    width: 23Vw;
+    background-color: hsla(216, 83%, 7%, 0.281);
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    padding-bottom: 20px ;
+    position: relative;
+    top: 30px;
+    
+}
+.third{
+    height: 81vh;
+    width: 21vw;
+    background-color:  hsla(216, 51%, 16%, 0.767);
+    border-radius: 20px;
+    padding: 20px;
+    position: relative;
+    bottom: 40px; 
+    /* display: flex; */
+    
+}
+.card{
+    height: 45vh;
+    width: 100%;
+    border-radius: 15px;
+}
+.finegirl{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Outfit';
+}
+.spanA{
+    display: flex;
+    width: 6.5vw;
+    justify-content: space-between;
+    
+}
+.spanB{
+    display: flex;
+    width: 7vw;
+    justify-content: space-between;
+}
+.spanC{
+    color: hsl(215, 51%, 70%);
+}
+.creation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 16vw;
+    margin-top: 20px;
+    font-family: 'Outfit';
+}
+.arewaobirin{
+    margin-top: 20px;
+    border-bottom: 1px;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-style: solid;
+    border-color: hsla(215, 40%, 71%, 0.26);
+}
+h3{
+    padding-bottom: 15px;
+    font-family: 'Outfit';
+    font-size: 20px;
+    color: white;
+}
